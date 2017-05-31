@@ -1,4 +1,4 @@
-# Arty-BSD <!-- Replace this line with the project name -->
+# Arty-BSD
 Created for Vivado 2016.4
 
-[Link to the project wiki](https://reference.digilentinc.com/learn/programmable-logic/tutorials/arty-microblaze-base-system-design/start)
+This project is an internal project used by Digilent created for use with the Arty. You are free to use it as you please, but it isn't documented on our Wiki.
